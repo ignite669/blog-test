@@ -13,7 +13,7 @@
 ``` javascript
 console.log("h")
 
-body {
+body{
   background-color:blue;
 }
 ```
