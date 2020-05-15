@@ -11,7 +11,6 @@
 `console.log('h')`
 
 ```javascript
-console.log("h")
 body {
   background-color:blue;
 }
