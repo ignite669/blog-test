@@ -10,7 +10,7 @@
 
 `console.log('h')`
 
-```javascript
+``` javascript
 console.log("h")
 
 body {
